@@ -11,7 +11,7 @@
 >推荐：**Turbo、Yoga、Free、Easy、Secure、绿叶、Atom**
 >>推荐看我微信公众号上的翻墙教程，使用SSR翻墙，稳定且免费
 - [【逗比大佬提供】下载Turob、Yoga、Snap、Free、Atom等Vpn点这里](https://softs.loan/?dir=%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/Android)
-- [【20180607更新】绿叶VPN5.1.1](http://d0.ananas.chaoxing.com/download/635b1e469db820ec16adeece39c272d1)
+- [【20180607更新】绿叶VPN5.1.1]http://d0.ananas.chaoxing.com/download/635b1e469db820ec16adeece39c272d1)
 - [【20180627更新】FreeVPN1.6.8]http://d0.ananas.chaoxing.com/download/670eeacc230d389a82ca98a6adfcc12d)速度快，先连上别的vpn，再打开这个，才能用
 - [【20180627更新】Secure VPN ](http://d0.ananas.chaoxing.com/download/53e74544486b04124078a5a2a8bdd6ff)速度快，先连上别的vpn，再打开这个，才能用
 - [自由门3.2](http://58.144.254.4/d0.ananas.chaoxing.com/download/4986371f55ae2a4ecad92ec59d61882c)
