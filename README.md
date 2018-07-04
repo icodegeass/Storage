@@ -37,7 +37,7 @@
 >IOS务必**不要**使用：SUN 、热点、极速、蓝灯、Rocket、Master、bubble、闪电 Wingyx VPN
 >>IOS推荐看我微信公众号上的翻墙教程，使用SSR翻墙，稳定且免费
 
->7月4日有效
+`7月4日有效`
 - IP变换器 同时只能登录两台设备[点击这里进入官网安装](https://www.ipsuper.com/update/check_app/89bea8da)
 - 布谷Vpn 同时只能登录一台设备[点击这里进入官网安装](http://web.xianshiwl.com/bugu/share.html?channel=zengjie)
 
