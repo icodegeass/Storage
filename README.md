@@ -34,12 +34,16 @@
 - [【逗比大佬提供更新】Firefly](https://softs.loan/?dir=%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/PC/Firefly)
 
 ## 苹果Vpn推荐
->IOS上**不**建议使用：热点、极速、蓝灯、Rocket、Master
+>IOS务必**不要**使用：SUN 、热点、极速、蓝灯、Rocket、Master、bubble、闪电 Wingyx VPN
 >>IOS推荐看我微信公众号上的翻墙教程，使用SSR翻墙，稳定且免费
+
+>7月4日有效
+- IP变换器 同时只能登录两台设备[点击这里进入官网安装](https://www.ipsuper.com/update/check_app/89bea8da)
+- 布谷Vpn 同时只能登录一台设备[点击这里进入官网安装](http://web.xianshiwl.com/bugu/share.html?channel=zengjie)
 
 备注|最近搜索时间|AppStore搜索关键词|开发商
 :-:|:-:|:-:|:-:
-无|6月3日有效|小双|shuangyi zhong
-无|6月3日有效|AnyConnect|Ciscao System，inc
-不建议付费,付费后易失效|5月31日有效|熊猫Vpn|Bin Lu
-无|5月31日有效|海豚Vpn|Jason Zhou
+稳定|7月4日有效|secure betternet|超级super国际直通车
+无|6月3日有效|小双|shuangyi zhong|
+不要付费|7月4日有效|海豚Vpn|Jason Zhou
+
