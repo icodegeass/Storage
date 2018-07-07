@@ -48,7 +48,7 @@
 :-:|:-:|:-:|:-:
 灰色图标,稳定|7月4日有效|secure betternet|Seed Green
 无|6月3日有效|小双|shuangyi zhong|
-but付费|7月4日有效|海豚Vpn|Jason Zhou
+不推荐付费|7月4日有效|海豚Vpn|Jason Zhou
 无|7月7日有效|vpnunlimitied|Juan Juan Gong
 绿叶子图标|7月7日有效|sgreenvpn|Eastern Pte.ltd
 蓝色图标|7月7日有效|sdx sdx|sdx sdx
