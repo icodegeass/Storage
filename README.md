@@ -19,8 +19,8 @@
 - [自由门3.2](http://58.144.254.4/d0.ananas.chaoxing.com/download/4986371f55ae2a4ecad92ec59d61882c)
 - [无界4.5](http://58.144.254.1/d0.ananas.chaoxing.com/download/70586666d54d5749798bf405d6f00eb6)
 - [比特加速器](https://share.seeall.club/webroot/download/info_bit.html)
--[【粉丝提供】蓝灯4.6.1](http://d0.ananas.chaoxing.com/download/e34919a6268c03075f6ad1e95d8f1554)
--[【粉丝提供】天行加速器1.1.3](http://d0.ananas.chaoxing.com/download/2238e5296db7260016ce3e8dbdab8f71)
+- [【粉丝提供】蓝灯4.6.1](http://d0.ananas.chaoxing.com/download/e34919a6268c03075f6ad1e95d8f1554)
+- [【粉丝提供】天行加速器1.1.3](http://d0.ananas.chaoxing.com/download/2238e5296db7260016ce3e8dbdab8f71)
 - [穿行加速器](http://www.tianxing.eu/)
 
 `vpn失效请在微信上或者小站上留言`
