@@ -21,6 +21,7 @@
 - [比特加速器](https://share.seeall.club/webroot/download/info_bit.html)
 -【粉丝提供】[蓝灯4.6.1](http://d0.ananas.chaoxing.com/download/e34919a6268c03075f6ad1e95d8f1554)
 -【粉丝提供】[天行加速器1.1.3](http://d0.ananas.chaoxing.com/download/2238e5296db7260016ce3e8dbdab8f71)
+-[穿行加速器](http://www.tianxing.eu/)
 
 `vpn失效请在微信上或者小站上留言`
 
@@ -37,7 +38,7 @@
 
 ## 苹果Vpn推荐
 >IOS务必**不要**使用：SUN 、热点、极速、蓝灯、Rocket、Master、bubble、闪电 Wingyx VPN
->>IOS推荐看我微信公众号上的翻墙教程，使用SSR翻墙，稳定且免费
+>IOS推荐看我微信公众号上的翻墙教程，使用SSR翻墙，稳定且免费
 
 `7月4日有效`
 - IP变换器 同时只能登录两台设备[点击这里进入官网安装](https://www.ipsuper.com/update/check_app/89bea8da)
@@ -52,3 +53,4 @@
 绿叶子图标|7月7日有效|sgreenvpn|Eastern Pte.ltd
 蓝色图标|7月7日有效|sdx sdx|sdx sdx
 绿色图标|7月7日有效|vpn proxy|Oktaviani Melia
+不太稳定|7月7日有效|w加速器|Fanmin Zhu
